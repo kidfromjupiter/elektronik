@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Reveiver"
+		},
+		{
+			"name": "Uno",
+			"path": "../../Uno"
+		},
+		{
+			"name": "SenderESP",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
